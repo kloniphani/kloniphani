@@ -16,7 +16,6 @@
 - 💾 **Data Cleaning and Preparation**: Ensuring data quality and readiness for analysis
 - 📊 **Statistical Analysis**: Applying statistical techniques to interpret data and inform decisions
 - 📈 **Predictive Analytics**: Using historical data to forecast future trends
-- 🛠️ **Tool Proficiency**: Experienced with Python, R, SQL, TensorFlow, PyTorch, and other data science tools
 - 📈 **Strategic Recommendations**: Guiding business growth with data-driven insights
 
 Let’s connect and explore the possibilities! 🚀
