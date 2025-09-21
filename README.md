@@ -1,6 +1,6 @@
 # About Me  
 
-👋 Hi, I’m **Hloniphani Maluleke**, a **Senior Data Scientist** passionate about designing and delivering AI-driven solutions that transform the way organizations operate. With deep expertise across **machine learning, natural language processing, and data engineering**, I specialise in crafting scalable solutions that drive measurable business value in **insurance, banking, asset management, and beyond**.  
+👋 Hi, I’m **Kloniphani**, a **Senior Data Scientist** passionate about designing and delivering AI-driven solutions that transform the way organisations operate. With deep expertise across **machine learning, natural language processing, and data engineering**, I specialise in crafting scalable solutions that drive measurable business value in **insurance, banking, asset management, and beyond**.  
 
 Over the course of my career, I’ve led AI initiatives that have:  
 - 💰 **Boosted Revenue**: Delivered a cross-sell recommendation engine for Liberty’s Structured Products that generated **R1 billion in revenue within six weeks** from a **R200k marketing spend**.  
