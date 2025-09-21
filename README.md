@@ -3,7 +3,7 @@
 👋 Hi, I’m **Kloniphani**, a **Senior Data Scientist** passionate about designing and delivering AI-driven solutions that transform the way organisations operate. With deep expertise across **machine learning, natural language processing, and data engineering**, I specialise in crafting scalable solutions that drive measurable business value in **insurance, banking, asset management, and beyond**.  
 
 Over the course of my career, I’ve led AI initiatives that have:  
-- 💰 **Boosted Revenue**: Delivered a cross-sell recommendation engine for Liberty’s Structured Products that generated **R1 billion in revenue within six weeks** from a **R200k marketing spend**.  
+- 💰 **Boosted Revenue**: Delivered a cross-sell recommendation engine for SBG’s Structured Products that generated **R1 billion in revenue within six weeks** from a **R200k marketing spend**.  
 - 🎯 **Optimised Sales & Hiring**: Built AI engines that improved financial advisor productivity, reduced recruitment costs, and cut advisor churn by embedding intelligence into hiring and lead generation.  
 - 🏦 **Enhanced Branch Network Strategy**: Developed an AI-powered branch location optimisation system, guiding open/close decisions that **saved and generated tens of millions of Rands**.  
 - 📢 **Improved Customer Experience**: Designed generative AI systems to analyse complaints, call transcripts, and surveys—reducing regulatory findings and uncovering voice-of-customer insights.  
