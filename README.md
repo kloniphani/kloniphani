@@ -17,12 +17,8 @@ Over the course of my career, I’ve led AI initiatives that have:
 In academia, I’ve served as a **Lecturer** at the University of the Western Cape, teaching **Big Data, IoT, and Virtual Reality**, while mentoring students and integrating cutting-edge technologies into course design. My research has contributed to international publications on **IoT, 5G networks, sustainability, and digital finance**, further bridging the gap between **theory and practice**. 
 
 - PhD (ongoing), M.Sc., B.Sc. Honours, and a B.Sc. in **Computer Science** from the University of the Western Cape.  
-- Publications include work on **sustainable 5G networks, IoT-driven environmental monitoring, digital trading platforms, cyber-physical systems, and network optimization for Africa**.  
-- Active contributor on **Google Scholar and ORCID**.  
+- Publications include work on **sustainable 5G networks, IoT-driven environmental monitoring, digital trading platforms, cyber-physical systems, and network optimisation for Africa**.  
 
 🌍 **What drives me**  
-At the heart of my work is a commitment to turning data into strategy—helping organizations **predict risks, understand customers, and unlock growth opportunities** while mentoring future leaders in AI. I thrive at the intersection of **data science, business impact, and academic innovation**.  
-
-🔗 **Let’s Connect**  
-If you’re looking for someone who can bridge **deep technical expertise** with **strategic vision**, let’s connect! I’m always open to collaborations where AI can deliver **measurable transformation**, whether in **finance, sustainability, or emerging technologies**.  
+At the heart of my work is a commitment to turning data into strategy—helping organizations **predict risks, understand customers, and unlock growth opportunities** while mentoring future leaders in AI. I thrive at the intersection of **data science, business impact, and academic innovation**. 
 
